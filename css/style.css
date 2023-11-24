@@ -7,7 +7,7 @@
   font-family: "Poppins", sans-serif;
 }
 
-body {
+/* body {
   height: 100vh;
   width: 100vw;
   background-color: #7ed6df;
@@ -15,7 +15,7 @@ body {
   justify-content: center;
   align-items: center;
   cursor: pointer;
-}
+} */
 .clock {
   width: 60vh;
   height: 60vh;
